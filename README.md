@@ -1,2 +1,2 @@
 # udg-i7035
-Concurrent and Distributed Systems
+Concurrent and Distributed Systems Class
